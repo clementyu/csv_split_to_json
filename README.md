@@ -1,5 +1,12 @@
 # csv_split_to_json
 
+## Prerequisite
+Run the following command to install prerequisite modules
+
+```
+npm install csvtojson fs path yargs valid-url request
+```
+
 ## Usage
 To split CSV into smaller pieces:
 
